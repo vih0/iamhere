@@ -7,6 +7,7 @@ container: {
       padding:24,
 },
 title:{
+    marginTop:30,
       color: '#fdfcfe',
       fontSize:24,
       fontWeight:'bold'
